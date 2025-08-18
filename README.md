@@ -1,4 +1,4 @@
-# m12napps
+# mert | m12napps
 
 💻 dev • web & mobile apps
 
